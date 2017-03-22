@@ -9,6 +9,11 @@ to his own world, his loved ones. But to find this door,
 the adventurer has to go through different mazes filled with
 unknown creatures and traps!
 
+You need to have clojure installed on your terminal to play this game.
+To play clone the repo on your local computer and then run the command:
+
+<pre> lein repl </pre>
+
 This game has been created by Shashank Bansal and Boom Dej-Udom in Clojure.
 Have fun! and let us know if you have any feedback at sbansal6@illinois.edu.
 
