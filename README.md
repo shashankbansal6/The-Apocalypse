@@ -12,7 +12,7 @@ unknown creatures and traps!
 You need to have clojure installed on your terminal to play this game.
 To play clone the repo on your local computer and then run the command:
 
-<pre> lein repl </pre>
+<pre> lein run </pre>
 
 This game has been created by Shashank Bansal and Boom Dej-Udom in Clojure.
 Have fun! and let us know if you have any feedback at sbansal6@illinois.edu.
